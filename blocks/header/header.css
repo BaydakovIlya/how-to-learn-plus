@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    min-height: 600px;
+    max-height: 756px;
+    display: flex; 
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    background-color: #f2f2f2;
+  
+  }
+@import url(../header/header.css);

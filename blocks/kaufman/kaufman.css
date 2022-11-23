@@ -1,0 +1,14 @@
+.kaufman{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 90px 0px;
+    background-color: #1f1f1f;
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+  
+  
+  }
+  @import url(../kaufman/kaufman.css);
