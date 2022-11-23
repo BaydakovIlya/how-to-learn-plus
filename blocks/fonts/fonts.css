@@ -12,3 +12,4 @@
     src: url('../fonts/Inter-SemiBold.woff')format('woff'),
         url('../fonts/Inter-SemiBold.woff2')format('woff2');
 }
+@import url('../fonts/fonts.css');
