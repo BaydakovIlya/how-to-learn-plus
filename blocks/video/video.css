@@ -3,5 +3,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 100px;
   }
   @import url(../video/video.css);

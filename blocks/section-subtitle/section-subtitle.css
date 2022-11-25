@@ -1,10 +1,12 @@
 .section-subtitle{
     width: 60%;
     display: flex;
+    align-items: flex-start;
     justify-content: center;
     line-height: 34px;
     margin-bottom: 0px;
     font-size: 24px;
     font-weight: normal;
+    margin-top: 20px;
   }
   @import url(../section-subtitle/section-subtitle.css);
