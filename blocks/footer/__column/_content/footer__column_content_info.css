@@ -1,7 +1,6 @@
 .footer__column_content_info{
   display: flex;
-  width: 30%;
   flex-direction: column;
   justify-content: flex-start;
-  border: 1px solid blue;
+
 }

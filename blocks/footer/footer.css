@@ -1,12 +1,9 @@
 .footer{
-    display: flex;
-    min-height: 250px;
-    width: 100%;
-    padding-top: 60px;
-    padding-bottom: 40px;
-    background-color: #1f1f1f;
-    border: 1px solid red;
-    justify-content: center
+  display: flex;
+  justify-content: center;
+  min-height: 350px;
+  padding: 60px 0px 40px;
+  background-color: black;
 
-  }
+}
 @import url(./footer.css);
