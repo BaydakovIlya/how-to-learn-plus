@@ -6,4 +6,7 @@
       transform: rotate(360deg);
     }
   }
-@import url(../rotation/rotation.css);
+  
+.rotation{
+  animation: rotation 20s infinite;
+}

@@ -4,6 +4,6 @@
   min-height: 350px;
   padding: 60px 0px 40px;
   background-color: black;
+  box-sizing: border-box;
 
 }
-@import url(./footer.css);

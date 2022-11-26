@@ -4,5 +4,7 @@
     justify-content: flex-start;
     flex-wrap: wrap;
     column-gap: 100px;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
   }
-  @import url(../cards/cards.css);

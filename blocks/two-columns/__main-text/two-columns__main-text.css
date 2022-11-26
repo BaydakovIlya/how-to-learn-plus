@@ -3,5 +3,6 @@
     flex-direction: column;
     width: 80%;
     min-width: 784px;
+    row-gap: 30px;
   
 }
