@@ -8,5 +8,6 @@
   }
   
 .rotation{
+  animation-timing-function: linear;
   animation: rotation 20s infinite;
 }
